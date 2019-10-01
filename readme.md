@@ -1,1 +1,1 @@
-React Timer app
+React Timer App
